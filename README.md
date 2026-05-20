@@ -1,5 +1,11 @@
 # 🚢 Titanic Survival Predictor
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle%20Titanic-blue)
+![Paradigm](https://img.shields.io/badge/ML-Supervised%20Classification-purple)
+![Model](https://img.shields.io/badge/Model-Random%20Forest-orange)
+
 A supervised machine-learning project that predicts whether a Titanic passenger
 survived, using a **Random Forest classifier** built from scratch in Python.
 
